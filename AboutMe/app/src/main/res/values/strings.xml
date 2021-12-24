@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Pallavi Mavinkurve</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies.
+        Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until
+        ones cheeks burned with the silent imputation of parsimony that such close dealing implied.
+        One dollar and eighty-seven cents. And the next day would be Christmas…\n
+
+        It was hidden under the log beside the stream. It had been there for as long as Jerry had been alive.
+        He wasnt sure if anyone besides him and his friends knew of its existence. He knew that anyone could potentially
+        find it, but it was well enough hidden that it seemed unlikely to happen. The fact that it had been there for more
+        than 30 years attested to this. So it was quite a surprise when he found the item was missing.\n
+
+        The light was out on the front porch of the house. This was strange. Judy couldnt remember a time when she had
+        ever seen it out. She hopped out of her car and walked to the door. It was slightly ajar and she knew this meant
+        something terrible. She gently pushed the door open and hall her fears were realized. \"Surprise!
+        Happy Birthday!\" everyone shouted.
+
+    </string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done_button_text">Done</string>
 </resources>
