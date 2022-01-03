@@ -135,7 +135,7 @@ class GameViewModel : ViewModel() {
         _buzzEvent.value = BuzzType.CORRECT
         Log.i("GameViewModel", "onCorrect")
         _score.value = score.value?.plus(1)
-        Log.i("GameViewModel", "Score $score")
+        Log.i("GameViewModel",  "Score $score")
         nextWord()
     }
 
